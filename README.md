@@ -1,6 +1,6 @@
 # 📂 Portfolio Overview
 
-This portfolio demonstrates my **Manual QA skills**, practical testing experience, and professional documentation abilities.  
+This portfolio showcases my **Manual QA skills**, hands-on testing experience, and professional documentation.  
 It includes structured Test Cases, Bug Reports, Checklists, Test Scenarios, API testing, and Recommendations across multiple projects.
 
 ---
@@ -40,8 +40,8 @@ Continuous professional development:
 
 - QA learning notes and practical exercises  
 - Certificates:
-  - QA Manual Pro  
-  - Manual QA Fundamentals
+  - 🧩 [QA Manual Pro](Project-Certificates/QA-Manual-Pro.pdf)  
+  - 🧩 [Manual QA Fundamentals](Project-Certificates/Manual-QA-Fundamentals.pdf)
 
 ---
 
@@ -102,7 +102,6 @@ Continuous professional development:
 - 💡 [Recommendations](Project-MobileApp/Recommendations.md)
 
 </details>
-
 
 ---
 
