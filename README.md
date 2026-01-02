@@ -103,13 +103,6 @@ Continuous professional development:
 
 </details>
 
-<details>
-<summary>📁 Certificates</summary>
-
-- 🧩 [QA Manual Pro](Project-Certificates/QA-Manual-Pro.md)  
-- 🧩 [Manual QA Fundamentals](Project-Certificates/Manual-QA-Fundamentals.md)
-
-</details>
 
 ---
 
