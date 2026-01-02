@@ -40,8 +40,8 @@ Continuous professional development:
 
 - QA learning notes and practical exercises  
 - Certificates:
-  - 🧩 [QA Manual Pro](Project-Certificates/QA-Manual-Pro.pdf)  
-  - 🧩 [Manual QA Fundamentals](Project-Certificates/Manual-QA-Fundamentals.pdf)
+  - 🧩 [QA Manual Pro](Project-Certificates/QA-Manual-Pro.jpg)  
+  - 🧩 [Manual QA Fundamentals](Project-Certificates/Manual-QA-Fundamentals.png)
 
 ---
 
