@@ -1,4 +1,4 @@
- BR-001: Newly Created Account Shows Chats from an Old Account Before Page Refresh
+# BR-001: Newly Created Account Shows Chats from an Old Account Before Page Refresh
 
 ---
 
