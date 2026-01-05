@@ -74,7 +74,7 @@ Continuous professional development:
 - 📋 [Test Scenarios](Project-Ecommerce/Test-Scenarios.md)  
 - ✅ [Checklists](Project-Ecommerce/Check-lists.md)  
 - 🐞 [Bug Reports](Project-Ecommerce/Bug-Reports.md)  
-- 🔗 [API Testing](Project-Ecommerce/AutomatedTesting.md)  
+- 🔗 [AutomatedTesting](Project-Ecommerce/AutomatedTesting.md)  
 - 💡 [Recommendations](Project-Ecommerce/Recommendations.md)
 
 </details>
