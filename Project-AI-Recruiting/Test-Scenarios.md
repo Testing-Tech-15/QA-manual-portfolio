@@ -25,3 +25,28 @@ Newly created account temporarily displays content from another user.
 - Old account: user_old_account@example.com  
 - New account: user_new_account@example.com
 
+
+
+# TS-002: Extension Install Redirect
+
+## Feature
+Ensure the "Install Now" button redirects to the correct Chrome Web Store page.
+
+## Scenario
+Clicking the extension install button leads to a wrong page.
+
+## Precondition
+- User on portal homepage  
+- Extension section fully loaded  
+
+## Steps
+1. Click "AI Detector / Plagiarism Check"  
+2. Click "Install Now"  
+
+## Expected Result
+- Redirect goes to official Chrome Web Store page for the intended extension  
+
+## Test Data (Anonymized)
+- Extension: AI Detector / Plagiarism Check  
+- User: Authorized test user
+
