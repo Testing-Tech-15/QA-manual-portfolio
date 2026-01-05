@@ -1,11 +1,6 @@
 
-# NDA Bug Reports – Mobile App
 
-> **Confidential – NDA Protected**
-
----
-
-## **Bug 1: App crashes when resending registration code**
+## **Bღ-001: App crashes when resending registration code**
 
 **Device:** Galaxy S21 Ultra 5G  
 **OS:** Android 13  
@@ -41,21 +36,13 @@
 - Verify app behavior when user resends verification code during registration.  
 - Validate that screen remains interactive and user can continue registration.  
 
-### **Checklist**
-- [ ] Open registration form.  
-- [ ] Enter valid data.  
-- [ ] Tap **Confirm and Continue**.  
-- [ ] Tap **Resend Code**.  
-- [ ] Verify code input field is visible.  
-- [ ] Verify app does not freeze.  
-- [ ] Verify registration can continue.  
 
 ### **Attachments**
 - Screenshots/video demonstrating crash.  
 
 ---
 
-## **Bug 2: Back button on Login screen not functional**
+## **Bღ-002: Back button on Login screen not functional**
 
 **Device:** Galaxy S21 Ultra 5G  
 **OS:** Android 13  
