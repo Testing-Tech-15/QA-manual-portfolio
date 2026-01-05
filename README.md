@@ -86,7 +86,7 @@ Continuous professional development:
 - 📋 [Test Scenarios](Project-AI-Recruiting/Test-Scenarios.md)  
 - ✅ [Checklists](Project-AI-Recruiting/Check-lists.md)  
 - 🐞 [Bug Reports](Project-AI-Recruiting/Bug-Reports.md)  
-- 🔗 [API Testing](Project-AI-Recruiting/API-collection.md)  
+- 🔗 [Automated Testing](Project-AI-Recruiting/API-collection.md)  
 - 💡 [Recommendations](Project-AI-Recruiting/Recommendations.md)
 
 </details>
