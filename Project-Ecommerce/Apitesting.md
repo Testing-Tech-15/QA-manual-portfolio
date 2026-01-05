@@ -124,4 +124,3 @@ except Exception as ex:
 finally:
     driver.quit()
     print("Browser closed.")
-
